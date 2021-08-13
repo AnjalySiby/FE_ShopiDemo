@@ -19,12 +19,13 @@
       "hero-1": {
         "type": "hero",
         "settings": {
+          "image": "shopify:\/\/shop_images\/yellow-background-gardening-tools.jpg",
           "alignment": "center",
-          "hero_layout": "full_width",
+          "hero_layout": "fixed_width",
           "hero_size": "large",
           "text_size": "large",
-          "title": "Image with text overlay",
-          "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+          "title": "Welcome to Fe_ShopiDemo",
+          "text": "",
           "button_label": "",
           "button_link": ""
         }
@@ -32,6 +33,7 @@
       "feature-row": {
         "type": "feature-row",
         "settings": {
+          "image": "shopify:\/\/shop_images\/PDAN003_a01dadc0-be67-47f2-8fa5-0103c41f5e62.jpg",
           "layout": "left",
           "title": "Image with text",
           "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -46,6 +48,7 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
+              "image": "shopify:\/\/shop_images\/house-plant-in-white-pot.jpg",
               "title": "Add a title or tagline",
               "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
               "button_label": "",
@@ -56,6 +59,7 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
+              "image": "shopify:\/\/shop_images\/livingroom-rainbows.jpg",
               "title": "Add a title or tagline",
               "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
               "button_label": "",
@@ -66,6 +70,7 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
+              "image": "shopify:\/\/shop_images\/loft-style-bedroom.jpg",
               "title": "Add a title or tagline",
               "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
               "button_label": "",
@@ -97,12 +102,13 @@
       "hero-2": {
         "type": "hero",
         "settings": {
+          "image": "shopify:\/\/shop_images\/soft-livingroom-sofa.jpg",
           "alignment": "center",
           "hero_layout": "full_width",
           "hero_size": "medium",
           "text_size": "large",
-          "title": "Image with text overlay",
-          "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+          "title": "",
+          "text": "",
           "button_label": "",
           "button_link": ""
         }
@@ -147,6 +153,7 @@
           "image-bar-0": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/ladder-plant-shelf.jpg",
               "alignment": "center",
               "link": "",
               "cta_label": ""
@@ -155,6 +162,7 @@
           "image-bar-1": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/rustic-living-room-feel-with-exposed-brick.jpg",
               "alignment": "center",
               "link": "",
               "cta_label": ""
@@ -163,6 +171,7 @@
           "image-bar-2": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/candles-stones-and-towels.jpg",
               "alignment": "center",
               "link": "",
               "cta_label": ""

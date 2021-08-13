@@ -8253,7 +8253,8 @@ theme.Product = (function() {
         body: theme.Helpers.serialize(form)
       })
         .then(function(response) {
-          return response.json();
+        console.log(response);
+        return response.json();
         })
         .then(function(json) {
           if (json.status && json.status !== 200) {
@@ -8389,7 +8390,7 @@ theme.Product = (function() {
         })
         .then(function(cart) {
           self._setCartQuantity(cart.item_count);
-          self._setCartCountBubble(cart.item_count);
+          //self._setCartCountBubble(cart.item_count);
           self._showCartPopup();
         })
         .catch(function(error) {
